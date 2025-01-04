@@ -1,0 +1,15 @@
+{
+  "name": "teste_estagio_backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
